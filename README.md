@@ -11,7 +11,7 @@
 ### Languages & Tools
 * **Programming & Web:** HTML, CSS, JavaScript, Node.js, React.js, Vue.js, Python, C
 * **Databases:** Oracle PL/SQL
-* **Core Concepts:** Computer Networking, Probability & Statistics, Data Structures & Algorithms
+* **Core Concepts:** FrontEnd Development, BackEnd Development, Data Structures & Algorithms
 * **Software Design:** UML (StarUML), System Architecture
 * **Platforms:** [LeetCode](https://leetcode.com/u/nshh123/), [HackerRank](https://hackerrank.com/profile/nshutisam61), [Codeforces](https://codeforces.com/profile/nsh123)
 
