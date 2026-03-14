@@ -4,7 +4,7 @@
 * I'm currently a Software Engineering student based in Kigali, Rwanda.
 * I'm passionate about clean code, software design, and solving complex problems.
 * I'm actively practicing competitive programming and expanding my knowledge in system architecture.
-* How to reach me: **[Email](nshutisam61@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/sam-musoni-786098227/)**
+* How to reach me: **[Email](mailto:nshutisam61@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/sam-musoni-786098227/)**
 
 ---
 
