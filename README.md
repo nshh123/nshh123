@@ -17,16 +17,9 @@
 
 ---
 
-### Featured Projects
-* **STORM (Spatial Threat Observation & Rapid Mitigation)** *A system designed to observe and mitigate spatial threats.*
-* **Competitive Programming Solutions** *A clean, organized collection of my solutions to algorithmic challenges.*
-* **IT Project Management & QA** *Presentations, diagrams, and coursework related to quality assurance and management.*
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nshh123&show_icons=true&theme=radical&include_all_commits=false" alt="Sam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nshh123&show_icons=true&theme=radical&include_all_commits=true" alt="Sam's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
