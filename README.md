@@ -23,7 +23,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
