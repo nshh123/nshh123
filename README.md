@@ -1,18 +1,14 @@
 # Hi there, I'm Sam Musoni 👋
 
 ###  About Me
-* I'm currently a Software Engineering student based in Kigali, Rwanda.
-* I'm passionate about clean code, software design, and solving complex problems.
-* I'm actively practicing competitive programming and expanding my knowledge in system architecture.
-* How to reach me: **[Email](mailto:nshutisam61@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/sam-musoni-786098227/)**
+* I'm a Software Engineer based in Kigali, Rwanda.
+* I'm passionate about LLMs and their application in solving complex problems.
 
 ---
 
 ### Languages & Tools
-* **Programming & Web:** HTML, CSS, JavaScript, Node.js, React.js, Vue.js, Python, C
-* **Databases:** Oracle PL/SQL
-* **Core Concepts:** FrontEnd Development, BackEnd Development, Data Structures & Algorithms
-* **Software Design:** UML (StarUML), System Architecture
+* **Programming & Web:** HTML, CSS, JavaScript, Node.js, React.js, Vue.js, TypeScript, Vite, FastApi, Python, C
+* **Databases:** Oracle PL/SQL, PostgreSQL
 * **Platforms:** [LeetCode](https://leetcode.com/u/nshh123/), [HackerRank](https://hackerrank.com/profile/nshutisam61), [Codeforces](https://codeforces.com/profile/nsh123)
 
 ---
