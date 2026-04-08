@@ -26,6 +26,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
+### Reach Me
+* Email: nshutisam61@gmail.com
+* LinkedIn: https://www.linkedin.com/in/sam-musoni-786098227/
 
 
 <!--
