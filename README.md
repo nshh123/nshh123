@@ -19,11 +19,11 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nshh123&theme=dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nshh123&theme=radical" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
