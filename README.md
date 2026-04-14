@@ -1,20 +1,11 @@
 # Hi there, I'm Sam Musoni 👋
 
-###  About Me
-* I'm a Software Engineer based in Kigali, Rwanda.
-* I'm passionate about LLMs and their application in solving complex problems.
-
----
-
-### Languages & Tools
-* **Programming & Web:** HTML, CSS, JavaScript, Node.js, React.js, Vue.js, TypeScript, Vite, FastApi, Python, C
-* **Databases:** Oracle PL/SQL, PostgreSQL
-  
+###  About Me & Contact info
+See [portfolio](https://sam-musoni-portfolio.netlify.app/)
 --- 
 
 ### Competitive Programming
 * **Platforms:** [LeetCode](https://leetcode.com/u/nshh123/), [HackerRank](https://hackerrank.com/profile/nshutisam61), [Codeforces](https://codeforces.com/profile/nsh123)
-
 ---
 
 ### 📊 GitHub Stats
@@ -26,10 +17,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
----
-### Reach Me
-* Email: nshutisam61@gmail.com
-* LinkedIn: https://www.linkedin.com/in/sam-musoni-786098227/
 
 
 <!--
