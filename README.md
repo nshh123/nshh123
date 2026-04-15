@@ -1,7 +1,7 @@
 # Hi there, I'm Sam Musoni 👋
 
 ###  About Me & Contact info
-* See [portfolio](https://sam-musoni-portfolio.netlify.app/)
+* See [portfolio](https://sam-musoni-portfolio-website.vercel.app/)
 --- 
 
 ### Competitive Programming
