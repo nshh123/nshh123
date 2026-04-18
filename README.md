@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nshh123&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nshh123&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
