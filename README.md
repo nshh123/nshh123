@@ -14,9 +14,12 @@
 </div>
 <br/>
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nshh123&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-
 
 
 <!--
