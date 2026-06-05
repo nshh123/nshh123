@@ -5,7 +5,7 @@
 --- 
 
 ### Competitive Programming
-* **Platforms:** [LeetCode](https://leetcode.com/u/nshh123/), [HackerRank](https://hackerrank.com/profile/nshutisam61), [Codeforces](https://codeforces.com/profile/nsh123)
+* **Platforms:** [LeetCode](https://leetcode.com/u/nshh123/), [HackerRank](https://hackerrank.com/profile/nshutisam61)
 ---
 
 ### 📊 GitHub Stats
