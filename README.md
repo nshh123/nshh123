@@ -17,7 +17,9 @@
   <img src="https://streak-stats.demolab.com/?user=nshh123&theme=dark" alt="GitHub Stats" />
 </div>
 <br/>
-
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 <!--
 **nshh123/nshh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
