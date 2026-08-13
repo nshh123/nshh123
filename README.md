@@ -106,7 +106,7 @@
 <br/>
 
 <img src="https://github-readme-streak-stats-mu-peach.vercel.app/?user=nshh123&theme=dark&hide_border=true" alt="GitHub streak stats" />
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <br/>
 
 </div>
