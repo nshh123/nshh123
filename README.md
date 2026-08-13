@@ -107,9 +107,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=nshh123&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nshh123&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<br/>
 
 </div>
 
@@ -118,7 +116,7 @@
 ## 🏅 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nshh123&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-delta-six.vercel.app/?username=nshh123&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 ---
