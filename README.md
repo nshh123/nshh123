@@ -100,8 +100,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api?username=nshh123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api?username=nshh123&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
 <br/>
 
