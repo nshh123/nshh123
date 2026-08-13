@@ -113,14 +113,6 @@
 
 ---
 
-## 🏅 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-delta-six.vercel.app/?username=nshh123&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <!-- Requires a one-time GitHub Action setup — see note below -->
