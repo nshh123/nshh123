@@ -31,15 +31,55 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Swap these for whatever you actually use -->
+**Languages**
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+**Databases**
+
+<div align="center">
+
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+**Frontend**
+
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 14](https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+
+</div>
+
+**Backend**
+
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+**AI / ML**
+
+<div align="center">
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation%20Setup-FF6F00?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Local LLM Deployment](https://img.shields.io/badge/Local%20LLM%20Deployment-OpenClaw-2E2E2E?style=for-the-badge)
 
 </div>
 
@@ -60,8 +100,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nshh123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api?username=nshh123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-umber-seven-81.vercel.app/api/top-langs/?username=nshh123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
@@ -95,18 +135,3 @@
 <div align="center">
   <sub>Built with ❤️ and a lot of commits</sub>
 </div>
-
-<!--
-**nshh123/nshh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
