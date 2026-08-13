@@ -105,7 +105,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=nshh123&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://github-readme-streak-stats-mu-peach.vercel.app/?user=nshh123&theme=dark&hide_border=true" alt="GitHub streak stats" />
 
 <br/>
 
