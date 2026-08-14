@@ -15,8 +15,6 @@
 
 </div>
 
-<br/>
-
 ## 🔗 About Me & Contact
 
 <div align="center">
