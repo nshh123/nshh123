@@ -120,6 +120,3 @@
 
 <br/>
 
-<div align="center">
-  <sub>Built with ❤️ and a lot of commits</sub>
-</div>
