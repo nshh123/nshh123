@@ -41,18 +41,18 @@
 
 </div>
 
-**Databases**
+### Databases
 
-<div align="center">
+<div>
 
 ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
-**Frontend**
+### Frontend
 
-<div align="center">
+<div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js 14](https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -61,18 +61,18 @@
 
 </div>
 
-**Backend**
+### Backend
 
-<div align="center">
+<div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
-**AI / ML**
+### AI / ML
 
-<div align="center">
+<div>
 
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation%20Setup-FF6F00?style=for-the-badge)
