@@ -10,9 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nshh123&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/nshh123?label=Followers&style=flat&color=58A6FF" alt="Followers" />
-
 </div>
 
 ## 🔗 About Me & Contact
