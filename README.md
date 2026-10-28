@@ -85,10 +85,6 @@
 * **LeetCode:** [nshh123](https://leetcode.com/u/nshh123/)
 * **HackerRank:** [nshutisam61](https://hackerrank.com/profile/nshutisam61)
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/nshh123?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -107,13 +103,3 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<!-- Requires a one-time GitHub Action setup — see note below -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nshh123/nshh123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-<br/>
-
