@@ -96,8 +96,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats-mu-peach.vercel.app/?user=nshh123&theme=dark&hide_border=true" alt="GitHub streak stats" />
-
+[![GitHub Streak](./profile/streak.svg)](https://github.com/nshh123)
 <br/>
 
 </div>
