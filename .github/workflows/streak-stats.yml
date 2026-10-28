@@ -23,6 +23,7 @@ jobs:
         with:
           options: user=nshh123&theme=dark
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
