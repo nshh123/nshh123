@@ -12,7 +12,7 @@
 
 </div>
 
-## 🔗 About Me & Contact
+## 🔗 About Me 
 
 <div align="center">
 
@@ -103,3 +103,8 @@
 </div>
 
 ---
+
+## 🔗 Reach Out
+
+* **Email:** [nshutisam61@gmail.com](mailto:nshutisam61@gmail.com)
+* **WhatsApp:** [+250795306295](https://wa.me/250795306295)
